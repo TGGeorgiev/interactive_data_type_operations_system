@@ -5,6 +5,7 @@
 
 
 Here user can try some operations with data types.👌😊
+
 Features:
   -  String Operations: Slicing, Uppercase conversion, Replace.
   -  Number Operations: Addition, Subtraction, Multiplication, Division, Power calculations.
